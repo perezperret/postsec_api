@@ -1,3 +1,5 @@
+Ported this [to Rails for convenience](https://github.com/perezperret/postsec_api_rails)
+
 # PostsecAPI
 
 This is a proof of concept for an API to search accredited post secondary institutions in the US. I once needed this for a project and thought it would work well as a standalone API.
